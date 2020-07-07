@@ -1,0 +1,8 @@
+# swdata requirements.txt 
+
+numpy==1.18.4
+torch==1.5.0
+# torch.utils.data
+# copy
+# pickle
+# pdb

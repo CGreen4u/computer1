@@ -1,0 +1,17 @@
+year = 2005
+day = 15
+hour = 55
+
+
+print(year,day,hour)
+
+
+a = 9
+b = 8
+def concat(a, b, c):
+    return eval(f"{a}{b}{c}")
+
+
+y = concat(year,day,hour)
+
+print(y)
