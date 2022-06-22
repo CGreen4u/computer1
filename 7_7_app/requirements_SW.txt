@@ -1,6 +1,6 @@
 # swdata requirements.txt 
 
-numpy==1.18.4
+numpy==1.22.0
 torch==1.5.0
 # torch.utils.data
 # copy
